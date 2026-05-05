@@ -7,6 +7,8 @@ cask "tomo" do
   desc "Native macOS e-book library manager"
   homepage "https://github.com/pdrbrnd/tomo"
 
+  auto_updates true
+
   livecheck do
     url :url
     strategy :github_latest
