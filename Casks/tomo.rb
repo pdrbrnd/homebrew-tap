@@ -1,6 +1,6 @@
 cask "tomo" do
-  version "1.5.4"
-  sha256 "2f69a921014b335647054eea2a36efa89db4c550ff8d8e9f7cc6a66434080183"
+  version "1.5.5"
+  sha256 "b54f80fffa63d12b18a7f9c77b97ac923e3495c9238eb90a0df302739b0ee35c"
 
   url "https://github.com/pdrbrnd/tomo/releases/download/v#{version}/Tomo-v#{version}.dmg"
   name "Tomo"
